@@ -3,7 +3,7 @@ import requests
 
 parameters = {
     "amount": 10,
-    "category": 23,
+    "category": 23,  # customize the category as you like!
     "type": "boolean"
 }
 
